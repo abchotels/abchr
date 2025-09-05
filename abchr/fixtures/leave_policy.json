@@ -1,0 +1,47 @@
+[
+ {
+  "amended_from": null,
+  "docstatus": 1,
+  "doctype": "Leave Policy",
+  "leave_policy_details": [
+   {
+    "annual_allocation": 14.0,
+    "leave_type": "annual leave",
+    "parent": "HR-LPOL-2025-00001",
+    "parentfield": "leave_policy_details",
+    "parenttype": "Leave Policy"
+   },
+   {
+    "annual_allocation": 30.0,
+    "leave_type": "Sick Leave",
+    "parent": "HR-LPOL-2025-00001",
+    "parentfield": "leave_policy_details",
+    "parenttype": "Leave Policy"
+   },
+   {
+    "annual_allocation": 7.0,
+    "leave_type": "emergency leave",
+    "parent": "HR-LPOL-2025-00001",
+    "parentfield": "leave_policy_details",
+    "parenttype": "Leave Policy"
+   },
+   {
+    "annual_allocation": 7.0,
+    "leave_type": "Leave Without Pay",
+    "parent": "HR-LPOL-2025-00001",
+    "parentfield": "leave_policy_details",
+    "parenttype": "Leave Policy"
+   },
+   {
+    "annual_allocation": 60.0,
+    "leave_type": "Compensatory Off",
+    "parent": "HR-LPOL-2025-00001",
+    "parentfield": "leave_policy_details",
+    "parenttype": "Leave Policy"
+   }
+  ],
+  "modified": "2025-08-30 02:48:47.237804",
+  "name": "HR-LPOL-2025-00001",
+  "title": "Egypt"
+ }
+]

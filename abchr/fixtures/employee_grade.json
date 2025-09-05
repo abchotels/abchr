@@ -1,0 +1,29 @@
+[
+ {
+  "currency": "EGP",
+  "default_base_pay": 0.0,
+  "default_salary_structure": null,
+  "docstatus": 0,
+  "doctype": "Employee Grade",
+  "modified": "2025-08-29 17:10:08.170847",
+  "name": "Manager"
+ },
+ {
+  "currency": "EGP",
+  "default_base_pay": 0.0,
+  "default_salary_structure": null,
+  "docstatus": 0,
+  "doctype": "Employee Grade",
+  "modified": "2025-08-29 18:14:59.284637",
+  "name": "Supervisor"
+ },
+ {
+  "currency": "EGP",
+  "default_base_pay": 0.0,
+  "default_salary_structure": null,
+  "docstatus": 0,
+  "doctype": "Employee Grade",
+  "modified": "2025-08-30 11:42:54.969940",
+  "name": "Staff"
+ }
+]

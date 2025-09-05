@@ -1,0 +1,738 @@
+[
+ {
+  "allow_tax_exemption": 0,
+  "amended_from": null,
+  "company": "Concha Hotel",
+  "currency": "EGP",
+  "disabled": 0,
+  "docstatus": 2,
+  "doctype": "Income Tax Slab",
+  "effective_from": "2025-01-01",
+  "modified": "2025-08-30 02:20:29.887999",
+  "name": "600",
+  "other_taxes_and_charges": [],
+  "slabs": [
+   {
+    "condition": null,
+    "from_amount": 1.0,
+    "parent": "600",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 0.0,
+    "to_amount": 15000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 15001.0,
+    "parent": "600",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 2.5,
+    "to_amount": 30000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 30001.0,
+    "parent": "600",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 10.0,
+    "to_amount": 45000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 45001.0,
+    "parent": "600",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 15.0,
+    "to_amount": 60000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 60001.0,
+    "parent": "600",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 20.0,
+    "to_amount": 200000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 200001.0,
+    "parent": "600",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 22.5,
+    "to_amount": 400000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 400001.0,
+    "parent": "600",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 25.0,
+    "to_amount": 600000.0
+   }
+  ],
+  "standard_tax_exemption_amount": 0.0,
+  "tax_relief_limit": 0.0
+ },
+ {
+  "allow_tax_exemption": 0,
+  "amended_from": null,
+  "company": "Concha Hotel",
+  "currency": "EGP",
+  "disabled": 0,
+  "docstatus": 2,
+  "doctype": "Income Tax Slab",
+  "effective_from": "2025-08-01",
+  "modified": "2025-08-30 02:20:29.878457",
+  "name": "Egyot",
+  "other_taxes_and_charges": [],
+  "slabs": [
+   {
+    "condition": null,
+    "from_amount": 1.0,
+    "parent": "Egyot",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 10.0,
+    "to_amount": 15000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 15000.0,
+    "parent": "Egyot",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 15.0,
+    "to_amount": 30000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 30000.0,
+    "parent": "Egyot",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 20.0,
+    "to_amount": 45000.0
+   }
+  ],
+  "standard_tax_exemption_amount": 1666.67,
+  "tax_relief_limit": 0.0
+ },
+ {
+  "allow_tax_exemption": 0,
+  "amended_from": null,
+  "company": "Concha Hotel",
+  "currency": "EGP",
+  "disabled": 0,
+  "docstatus": 2,
+  "doctype": "Income Tax Slab",
+  "effective_from": "2025-01-01",
+  "modified": "2025-08-30 02:20:29.869119",
+  "name": "Egypt",
+  "other_taxes_and_charges": [],
+  "slabs": [
+   {
+    "condition": null,
+    "from_amount": 1.0,
+    "parent": "Egypt",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 10.0,
+    "to_amount": 15000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 15000.0,
+    "parent": "Egypt",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 15.0,
+    "to_amount": 30000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 30000.0,
+    "parent": "Egypt",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 20.0,
+    "to_amount": 45000.0
+   }
+  ],
+  "standard_tax_exemption_amount": 1666.67,
+  "tax_relief_limit": 0.0
+ },
+ {
+  "allow_tax_exemption": 0,
+  "amended_from": null,
+  "company": "Concha Hotel",
+  "currency": "EGP",
+  "disabled": 0,
+  "docstatus": 2,
+  "doctype": "Income Tax Slab",
+  "effective_from": "2025-08-01",
+  "modified": "2025-08-30 02:20:29.856756",
+  "name": "ee",
+  "other_taxes_and_charges": [],
+  "slabs": [
+   {
+    "condition": null,
+    "from_amount": 1.0,
+    "parent": "ee",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 0.0,
+    "to_amount": 15.0
+   },
+   {
+    "condition": null,
+    "from_amount": 15.0,
+    "parent": "ee",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 10.0,
+    "to_amount": 30000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 30000.0,
+    "parent": "ee",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 15.0,
+    "to_amount": 45000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 45000.0,
+    "parent": "ee",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 20.0,
+    "to_amount": 60000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 60000.0,
+    "parent": "ee",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 22.5,
+    "to_amount": 200000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 200000.0,
+    "parent": "ee",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 25.0,
+    "to_amount": 400000.0
+   }
+  ],
+  "standard_tax_exemption_amount": 20000.0,
+  "tax_relief_limit": 0.0
+ },
+ {
+  "allow_tax_exemption": 0,
+  "amended_from": null,
+  "company": "Concha Hotel",
+  "currency": "EGP",
+  "disabled": 0,
+  "docstatus": 2,
+  "doctype": "Income Tax Slab",
+  "effective_from": "2025-01-01",
+  "modified": "2025-08-30 02:20:29.845458",
+  "name": "EGGG",
+  "other_taxes_and_charges": [],
+  "slabs": [
+   {
+    "condition": null,
+    "from_amount": 1.0,
+    "parent": "EGGG",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 0.0,
+    "to_amount": 15.0
+   },
+   {
+    "condition": null,
+    "from_amount": 15.0,
+    "parent": "EGGG",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 10.0,
+    "to_amount": 30000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 30000.0,
+    "parent": "EGGG",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 15.0,
+    "to_amount": 45000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 45000.0,
+    "parent": "EGGG",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 20.0,
+    "to_amount": 60000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 60000.0,
+    "parent": "EGGG",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 22.5,
+    "to_amount": 200000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 200000.0,
+    "parent": "EGGG",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 25.0,
+    "to_amount": 400000.0
+   }
+  ],
+  "standard_tax_exemption_amount": 20000.0,
+  "tax_relief_limit": 0.0
+ },
+ {
+  "allow_tax_exemption": 0,
+  "amended_from": null,
+  "company": "Concha Hotel",
+  "currency": "EGP",
+  "disabled": 0,
+  "docstatus": 2,
+  "doctype": "Income Tax Slab",
+  "effective_from": "2024-12-31",
+  "modified": "2025-08-30 02:20:29.763215",
+  "name": "NEW",
+  "other_taxes_and_charges": [],
+  "slabs": [
+   {
+    "condition": null,
+    "from_amount": 1.0,
+    "parent": "NEW",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 0.0,
+    "to_amount": 15.0
+   },
+   {
+    "condition": null,
+    "from_amount": 15.0,
+    "parent": "NEW",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 10.0,
+    "to_amount": 30000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 30000.0,
+    "parent": "NEW",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 15.0,
+    "to_amount": 45000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 45000.0,
+    "parent": "NEW",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 20.0,
+    "to_amount": 60000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 60000.0,
+    "parent": "NEW",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 22.5,
+    "to_amount": 200000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 200000.0,
+    "parent": "NEW",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 25.0,
+    "to_amount": 400000.0
+   }
+  ],
+  "standard_tax_exemption_amount": 20000.0,
+  "tax_relief_limit": 0.0
+ },
+ {
+  "allow_tax_exemption": 0,
+  "amended_from": null,
+  "company": "Concha Hotel",
+  "currency": "EGP",
+  "disabled": 0,
+  "docstatus": 2,
+  "doctype": "Income Tax Slab",
+  "effective_from": "2024-12-31",
+  "modified": "2025-08-30 15:59:35.754473",
+  "name": "Egypty",
+  "other_taxes_and_charges": [],
+  "slabs": [
+   {
+    "condition": null,
+    "from_amount": 1.0,
+    "parent": "Egypty",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 0.0,
+    "to_amount": 15000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 15000.0,
+    "parent": "Egypty",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 10.0,
+    "to_amount": 30000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 30000.0,
+    "parent": "Egypty",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 15.0,
+    "to_amount": 45000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 45000.0,
+    "parent": "Egypty",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 20.0,
+    "to_amount": 60000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 60000.0,
+    "parent": "Egypty",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 22.5,
+    "to_amount": 200000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 200000.0,
+    "parent": "Egypty",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 25.0,
+    "to_amount": 400000.0
+   }
+  ],
+  "standard_tax_exemption_amount": 1666.66,
+  "tax_relief_limit": 0.0
+ },
+ {
+  "allow_tax_exemption": 1,
+  "amended_from": null,
+  "company": "Concha Hotel",
+  "currency": "EGP",
+  "disabled": 0,
+  "docstatus": 2,
+  "doctype": "Income Tax Slab",
+  "effective_from": "2024-12-31",
+  "modified": "2025-08-30 16:15:56.671831",
+  "name": "EGY2",
+  "other_taxes_and_charges": [],
+  "slabs": [
+   {
+    "condition": null,
+    "from_amount": 1.0,
+    "parent": "EGY2",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 0.0,
+    "to_amount": 15000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 15000.0,
+    "parent": "EGY2",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 10.0,
+    "to_amount": 30000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 30000.0,
+    "parent": "EGY2",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 15.0,
+    "to_amount": 45000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 45000.0,
+    "parent": "EGY2",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 20.0,
+    "to_amount": 60000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 60000.0,
+    "parent": "EGY2",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 22.5,
+    "to_amount": 200000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 200000.0,
+    "parent": "EGY2",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 25.0,
+    "to_amount": 400000.0
+   }
+  ],
+  "standard_tax_exemption_amount": 20000.0,
+  "tax_relief_limit": 0.0
+ },
+ {
+  "allow_tax_exemption": 1,
+  "amended_from": null,
+  "company": "Concha Hotel",
+  "currency": "EGP",
+  "disabled": 0,
+  "docstatus": 2,
+  "doctype": "Income Tax Slab",
+  "effective_from": "2024-12-31",
+  "modified": "2025-08-30 16:39:53.909935",
+  "name": "EGY NEW",
+  "other_taxes_and_charges": [],
+  "slabs": [
+   {
+    "condition": null,
+    "from_amount": 1.0,
+    "parent": "EGY NEW",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 0.0,
+    "to_amount": 15000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 15000.0,
+    "parent": "EGY NEW",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 10.0,
+    "to_amount": 30000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 30000.0,
+    "parent": "EGY NEW",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 15.0,
+    "to_amount": 45000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 45000.0,
+    "parent": "EGY NEW",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 20.0,
+    "to_amount": 60000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 60000.0,
+    "parent": "EGY NEW",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 22.5,
+    "to_amount": 200000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 200000.0,
+    "parent": "EGY NEW",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 25.0,
+    "to_amount": 400000.0
+   }
+  ],
+  "standard_tax_exemption_amount": 1666.66,
+  "tax_relief_limit": 0.0
+ },
+ {
+  "allow_tax_exemption": 1,
+  "amended_from": null,
+  "company": "Concha Hotel",
+  "currency": "EGP",
+  "disabled": 0,
+  "docstatus": 1,
+  "doctype": "Income Tax Slab",
+  "effective_from": "2024-12-31",
+  "modified": "2025-08-30 16:47:54.029406",
+  "name": "Egy N",
+  "other_taxes_and_charges": [],
+  "slabs": [
+   {
+    "condition": null,
+    "from_amount": 1.0,
+    "parent": "Egy N",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 0.0,
+    "to_amount": 40000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 40001.0,
+    "parent": "Egy N",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 10.0,
+    "to_amount": 45000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 45001.0,
+    "parent": "Egy N",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 15.0,
+    "to_amount": 60000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 60001.0,
+    "parent": "Egy N",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 20.0,
+    "to_amount": 130000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 130001.0,
+    "parent": "Egy N",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 22.5,
+    "to_amount": 200000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 200001.0,
+    "parent": "Egy N",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 25.0,
+    "to_amount": 400000.0
+   }
+  ],
+  "standard_tax_exemption_amount": 1666.66,
+  "tax_relief_limit": 0.0
+ },
+ {
+  "allow_tax_exemption": 1,
+  "amended_from": null,
+  "company": "Concha Hotel",
+  "currency": "EGP",
+  "disabled": 0,
+  "docstatus": 1,
+  "doctype": "Income Tax Slab",
+  "effective_from": "2024-12-31",
+  "modified": "2025-09-01 22:53:59.380000",
+  "name": "egy m",
+  "other_taxes_and_charges": [],
+  "slabs": [
+   {
+    "condition": null,
+    "from_amount": 1.0,
+    "parent": "egy m",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 0.0,
+    "to_amount": 40000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 40001.0,
+    "parent": "egy m",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 10.0,
+    "to_amount": 55000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 55001.0,
+    "parent": "egy m",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 15.0,
+    "to_amount": 70000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 70001.0,
+    "parent": "egy m",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 20.0,
+    "to_amount": 200000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 200001.0,
+    "parent": "egy m",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 22.5,
+    "to_amount": 400000.0
+   },
+   {
+    "condition": null,
+    "from_amount": 400001.0,
+    "parent": "egy m",
+    "parentfield": "slabs",
+    "parenttype": "Income Tax Slab",
+    "percent_deduction": 25.0,
+    "to_amount": 1200000.0
+   }
+  ],
+  "standard_tax_exemption_amount": 20000.0,
+  "tax_relief_limit": 0.0
+ }
+]

@@ -1,0 +1,570 @@
+[
+ {
+  "color": null,
+  "country": "EG",
+  "docstatus": 0,
+  "doctype": "Holiday List",
+  "from_date": "2025-01-01",
+  "holiday_list_name": "Egypt",
+  "holidays": [
+   {
+    "description": "New Year's Day",
+    "holiday_date": "2025-01-01",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 0
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-01-03",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Coptic Christmas Day",
+    "holiday_date": "2025-01-07",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 0
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-01-10",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-01-17",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-01-24",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "January 25th Revolution Day",
+    "holiday_date": "2025-01-25",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 0
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-01-31",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-02-07",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-02-14",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-02-21",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-02-28",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-03-07",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-03-14",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-03-21",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-03-28",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Eid al-Fitr (estimated)",
+    "holiday_date": "2025-03-30",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 0
+   },
+   {
+    "description": "Eid al-Fitr Holiday (estimated)",
+    "holiday_date": "2025-03-31",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 0
+   },
+   {
+    "description": "Eid al-Fitr Holiday (estimated)",
+    "holiday_date": "2025-04-01",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 0
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-04-04",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-04-11",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-04-18",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Coptic Easter",
+    "holiday_date": "2025-04-20",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 0
+   },
+   {
+    "description": "Sham El Nessim",
+    "holiday_date": "2025-04-21",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 0
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-04-25",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Labor Day",
+    "holiday_date": "2025-05-01",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 0
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-05-02",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-05-09",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-05-16",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-05-23",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-05-30",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Arafat Day (estimated)",
+    "holiday_date": "2025-06-05",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 0
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-06-06",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Eid al-Adha Holiday (estimated)",
+    "holiday_date": "2025-06-07",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 0
+   },
+   {
+    "description": "Eid al-Adha Holiday (estimated)",
+    "holiday_date": "2025-06-08",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 0
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-06-13",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-06-20",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Islamic New Year (estimated)",
+    "holiday_date": "2025-06-26",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 0
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-06-27",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "June 30 Revolution Day",
+    "holiday_date": "2025-06-30",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 0
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-07-04",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-07-11",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-07-18",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "July 23 Revolution Day",
+    "holiday_date": "2025-07-23",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 0
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-07-25",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-08-01",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-08-08",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-08-15",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-08-22",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-08-29",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Prophet's Birthday (estimated)",
+    "holiday_date": "2025-09-04",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 0
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-09-05",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-09-12",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-09-19",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-09-26",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-10-03",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Armed Forces Day",
+    "holiday_date": "2025-10-06",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 0
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-10-10",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-10-17",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-10-24",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-10-31",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-11-07",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-11-14",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-11-21",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-11-28",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-12-05",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-12-12",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-12-19",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   },
+   {
+    "description": "Friday",
+    "holiday_date": "2025-12-26",
+    "parent": "Egypt",
+    "parentfield": "holidays",
+    "parenttype": "Holiday List",
+    "weekly_off": 1
+   }
+  ],
+  "modified": "2025-08-19 22:14:08.230647",
+  "name": "Egypt",
+  "subdivision": "",
+  "to_date": "2025-12-31",
+  "total_holidays": 69,
+  "weekly_off": "Friday"
+ }
+]

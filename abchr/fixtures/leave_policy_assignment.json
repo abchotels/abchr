@@ -1,0 +1,36 @@
+[
+ {
+  "amended_from": null,
+  "assignment_based_on": "Joining Date",
+  "carry_forward": 0,
+  "company": "Concha Hotel",
+  "docstatus": 1,
+  "doctype": "Leave Policy Assignment",
+  "effective_from": "2025-08-10",
+  "effective_to": "2026-08-10",
+  "employee": "HR-EMP-00007",
+  "employee_name": "Islam Mohamed Refaat Mohamed Kamal",
+  "leave_period": null,
+  "leave_policy": "HR-LPOL-2025-00001",
+  "leaves_allocated": 1,
+  "modified": "2025-08-30 02:50:20.940105",
+  "name": "HR-LPOL-ASSGN-00001"
+ },
+ {
+  "amended_from": null,
+  "assignment_based_on": "Joining Date",
+  "carry_forward": 0,
+  "company": "Concha Hotel",
+  "docstatus": 1,
+  "doctype": "Leave Policy Assignment",
+  "effective_from": "2025-08-07",
+  "effective_to": "2026-08-10",
+  "employee": "HR-EMP-00006",
+  "employee_name": "Waled Medany Ahmed Medany Mohamed",
+  "leave_period": null,
+  "leave_policy": "HR-LPOL-2025-00001",
+  "leaves_allocated": 1,
+  "modified": "2025-08-30 02:50:07.041934",
+  "name": "HR-LPOL-ASSGN-00002"
+ }
+]

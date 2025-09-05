@@ -14,3 +14,20 @@ doc_events = {
         "after_insert": "abchr.hr.auto_ssa.after_insert_employee",
     }
 }
+fixtures = [
+    "Employee",
+    "Employee Grade",
+    "Designation",
+    "Department",
+    "Branch",
+    "Salary Component",
+    "Salary Structure",
+    "Salary Structure Assignment",
+    "Payroll Period",
+    "Leave Type",
+    "Leave Policy",
+    "Leave Policy Assignment",
+    "Holiday List",
+    "Leave Period",
+    "Income Tax Slab",
+]

@@ -1,0 +1,13 @@
+[
+ {
+  "company": "Concha Hotel",
+  "docstatus": 0,
+  "doctype": "Leave Period",
+  "from_date": "2025-01-01",
+  "is_active": 1,
+  "modified": "2025-08-30 02:44:28.355236",
+  "name": "HR-LPR-2025-00001",
+  "optional_holiday_list": "Egypt",
+  "to_date": "2025-12-31"
+ }
+]
