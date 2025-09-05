@@ -26,8 +26,8 @@
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-08-16 18:24:58.894474",
- "modified_by": "Administrator",
+ "modified": "2025-08-29 15:54:34.346293",
+ "modified_by": "a.darwish.dev@gmail.com",
  "module": "Abchr",
  "name": "UNIT",
  "owner": "Administrator",
@@ -41,6 +41,18 @@
    "read": 1,
    "report": 1,
    "role": "System Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "HR Manager",
    "share": 1,
    "write": 1
   }
